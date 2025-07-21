@@ -36,19 +36,17 @@ SecureSight is a fictional CCTV monitoring software. This assessment focuses on 
 git clone https://github.com/yourusername/securesight-dashboard.git
 cd securesight-dashboard
 npm install
+```
 Setup DB and seed data:
-bash
-Copy
-Edit
+```
 npx prisma db push
 npx prisma db seed
+```
 Run the development server:
-bash
-Copy
-Edit
+```
 npm run dev
 Visit http://localhost:3000
-
+```
 🛢 Database Models
 Camera
 id: Int
@@ -113,6 +111,3 @@ Jitendra Kumar
 
 GitHub Profile
 
-yaml
-Copy
-Edit

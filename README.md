@@ -11,6 +11,9 @@ SecureSight is a fictional CCTV monitoring software. This assessment focuses on 
 - **Deployment**: Vercel
 
 ---
+## screenshot
+<img width="1536" height="1024" alt="secure screenshot" src="https://github.com/user-attachments/assets/4154f001-bf26-47c1-9a7d-7b972633a921" />
+
 
 ## 🖼 Features
 
